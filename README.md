@@ -4,7 +4,7 @@ A modern **React + Vite** project built to practice **core React concepts** like
 
 🔗 **Live Demo:**
 👉 [https://your-live-link-here.vercel.app](https://your-live-link-here.vercel.app)
-*(replace with Netlify / Vercel link)*
+*(Link is not working due to some error in prduction will fix soon)*
 
 ![Project Preview](src/assets/output.png)
 
@@ -96,13 +96,7 @@ Open 👉 `http://localhost:5173` in your browser.
 
 ---
 
-## 📸 Screenshots
 
-> UI preview of Todo List & Events handling
-
-![UI Preview](src/assets/output.png)
-
----
 
 ## 📚 What You’ll Learn From This Project
 
