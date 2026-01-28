@@ -3,8 +3,8 @@
 A modern **React + Vite** project built to practice **core React concepts** like **events, hooks, refs, and state management**, with clean UI and real examples.
 
 🔗 **Live Demo:**
-👉 [https://your-live-link-here.vercel.app](https://your-live-link-here.vercel.app)
-*(Link is not working due to some error in prduction will fix soon)*
+👉 [https://react-pr-3-hvo3.vercel.app/]
+
 
 ![Project Preview](src/assets/output.png)
 
