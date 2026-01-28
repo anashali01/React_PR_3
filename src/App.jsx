@@ -1,6 +1,6 @@
 import React from "react";
 import ToDoList from "./components/ToDoList.jsx";
-import Events from "./components/events.jsx";
+// import Events from "./components/events.jsx";
 
 const App = () => {
   return (
